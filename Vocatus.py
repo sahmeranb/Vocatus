@@ -1,6 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-#gmail : ziadabouelfarah2@gmail.com
+
 
 import urllib.request
 
