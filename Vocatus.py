@@ -855,7 +855,7 @@ adminlist = [
 'wordpress',
 'btslab'
 ]
-print("Start trying : \n\n")
+print("Yeniden url yoxlanilir : \n\n")
 #make a loop for the trying to find the link
 for i in adminlist:
     url_try = url + i
